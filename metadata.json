@@ -1,0 +1,5 @@
+{
+  "name": "ElectroLab AI - Circuit Simulator",
+  "description": "A DC circuit simulator similar to PhET, allowing students to build circuits with batteries, resistors, light bulbs, and switches. Features an AI Lab Assistant powered by Gemini to help explain circuit concepts.",
+  "requestFramePermissions": []
+}
